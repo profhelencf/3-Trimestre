@@ -1,6 +1,6 @@
 body {
-    background-color: plum;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url('img/bg-desktop.webp');
+    
 }
 
 #container {
@@ -23,7 +23,7 @@ body {
     margin: 0.6rem;
     border-radius:0.6rem;
     font-size: 1vw;
-    
+
 }
 
 
